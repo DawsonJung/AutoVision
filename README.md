@@ -1,5 +1,5 @@
 # AutoVision
-Computer Vision to detect traffic objects using TensorFlow
+Computer Vision to detect traffic objects using TensorFlow and Python.
 
 Currently Detecting:
 - Red Lights
