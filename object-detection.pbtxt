@@ -1,0 +1,89 @@
+item {
+ id: 1
+ name: 'red light'
+}
+
+item {
+ id: 2
+ name: 'green light'
+}
+
+item {
+ id: 3
+ name: 'suv'
+}
+
+item {
+ id: 4
+ name: 'minivan'
+}
+
+item {
+ id: 5
+ name: 'car'
+}
+
+item {
+ id: 6
+ name: 'van'
+}
+
+item {
+ id: 7
+ name: 'truck'
+}
+
+item {
+ id: 8
+ name: 'semi truck'
+}
+
+item {
+ id: 9
+ name: 'bus'
+}
+
+item {
+ id: 10
+ name: 'person'
+}
+
+item {
+ id: 11
+ name: 'bicycle'
+}
+
+item {
+ id: 12
+ name: 'stop sign'
+}
+
+item {
+ id: 13
+ name: 'red left light'
+}
+
+item {
+ id: 14
+ name: 'pickup truck'
+}
+
+item {
+ id: 15
+ name: 'left green light'
+}
+
+item {
+ id: 16
+ name: 'yellow light'
+}
+
+item {
+ id: 17
+ name: 'left yellow light'
+}
+
+item {
+ id: 18
+ name: 'motorcycle'
+}
